@@ -1,2 +1,2 @@
-class file2 {
+class file2 {aaaa
 }
